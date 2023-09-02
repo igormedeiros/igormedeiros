@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @igormedeiros
 - 👀 I’m interested in AI
-- 🌱 I’m currently working on Java and SpringBoot 
-- 💞️ I’m looking to collaborate on blockchain projects
+- 🌱 I’m currently working on Pytho automation, machine learning 
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me igor.medeiros@gmail.com
 
 <!---
