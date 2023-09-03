@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and RPA
 - 🌱 I’m currently working on Python RPA, machine learning 
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me igor.medeiros@gmail.com
+- 📫 How to reach me igormedeiros.pythondev@gmail.com
 
 <!---
 igormedeiros/igormedeiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
