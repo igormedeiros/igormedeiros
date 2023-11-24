@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @igormedeiros
-- 👀 I’m interested in AI and RPA
-- 🌱 I’m currently working on Python RPA, Arduino and machine learning 
-- 💞️ I’m looking to collaborate on AI projects
+- 👀 I’m interested in GenAI
+- 🌱 I’m currently working on GenAI 
+- 💞️ I’m looking to collaborate on GenAI projects
 - 📫 How to reach me dev@igormedeiros.com.br
 - 🌍 igormedeiros.com.br
 
