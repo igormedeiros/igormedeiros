@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igormedeiros
-- 👀 I’m interested in GenAI and Mult-Agent System in healthcare
+- 👀 I’m interested in Chatbot, GenAI and Mult-Agent System in healthcare
 - 🌱 I’m currently working on GenAI 
 - 💞️ I’m looking to collaborate on GenAI projects
 - 📫 igor.medeiros@gmail.com
